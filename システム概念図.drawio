@@ -176,7 +176,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OlAqE655WdlyNZaHh5r8-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OlAqE655WdlyNZaHh5r8-131" target="OlAqE655WdlyNZaHh5r8-60">
+        <mxCell id="OlAqE655WdlyNZaHh5r8-135" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OlAqE655WdlyNZaHh5r8-131" target="OlAqE655WdlyNZaHh5r8-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OlAqE655WdlyNZaHh5r8-131" value="メール" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
