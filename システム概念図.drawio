@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OlAqE655WdlyNZaHh5r8-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;北の道の駅HPサーバ&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="34" y="230" width="760" height="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
